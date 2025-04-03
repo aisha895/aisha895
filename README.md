@@ -1,8 +1,8 @@
-<p align="center">
-  <h1>Hello, There! I am Aisha Mahmood.</h1> <br>
-  Welcome to my GitHub!
-</p>
 
+<h1 align="center">
+  <p align="center"><strong>Hello, There! I am  Aisha Mahmood.</strong></p>
+  <h2 align="center">Welcome to my GitHub!</h2>  
+</h1>
 
 I'm a recent Software Engineering graduate from York University with hands-on experience in full-stack web development and IT support. I specialize in building scalable and efficient systems using technologies like Java, Python, React, Spring Boot, and FastAPI.
 
@@ -45,7 +45,7 @@ I'm always exploring new technologies and looking for meaningful projects to con
 ## Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/aishaatif/">
-    <img src="https://i.imgur.com/yRpa1dQ.png" width="40" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" width="80" alt="LinkedIn" />
   </a>
 </p>
 
