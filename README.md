@@ -1,6 +1,8 @@
-                                                      # Hello, There! I am Aisha Mahmood.
+<p align="center">
+  <h1>Hello, There! I am Aisha Mahmood.</h1> <br>
+  Welcome to my GitHub!
+</p>
 
-Welcome to my GitHub! 🚀
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aishaatif/">
@@ -17,9 +19,6 @@ Throughout my academic and professional journey, I have gained experience in var
 - **Cloud Solutions**: Utilizing AWS and GCP for cloud computing, deploying applications, and managing cloud-based infrastructure.
 
 I'm always exploring new technologies and looking for meaningful projects to contribute to. Let's connect and build something impactful together! 💻🌱
-
-
-## Programming Languages and Tools
 
 ## Programming Languages and Tools
 
@@ -40,16 +39,6 @@ I'm always exploring new technologies and looking for meaningful projects to con
 </p>
 
 
-## External Projects and Contributions
-
-<details open>
-  <summary><strong>📘 My Top Open Source Projects</strong></summary>
-
-  <p align="left">
-    <a href="https://github.com/aisha895/readme-typing-svg"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aisha895&repo=readme-typing-svg&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
-  </p>
-
-</details>
 
 ## Connect with Me
 
