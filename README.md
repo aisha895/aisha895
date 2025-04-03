@@ -43,11 +43,13 @@ I'm always exploring new technologies and looking for meaningful projects to con
 
 
 ## Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/aishaatif/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" width="80" alt="LinkedIn" />
-  </a>
-</p>
+
+
+
+<h5 align="center">
+  <code><a href=""https://www.linkedin.com/in/aishaatif/"" title="LinkedIn Profile"> <img width="22" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"> LinkedIn</a></code>
+
+</h5>
 
 <p align="center">
   <a href="mailto:aishamahmood895@gmail.com">
