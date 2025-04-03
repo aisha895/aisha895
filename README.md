@@ -21,6 +21,8 @@ I'm always exploring new technologies and looking for meaningful projects to con
 
 ## Programming Languages and Tools
 
+## Programming Languages and Tools
+
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white" />
@@ -32,9 +34,11 @@ I'm always exploring new technologies and looking for meaningful projects to con
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-68217A?style=flat&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white" />
 </p>
+
 
 ## External Projects and Contributions
 
@@ -52,9 +56,6 @@ I'm always exploring new technologies and looking for meaningful projects to con
 <p align="center">
   <a href="https://www.linkedin.com/in/aishaatif/">
     <img src="https://i.imgur.com/yRpa1dQ.png" width="40" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/aisha895">
-    <img src="https://i.imgur.com/OViZO8J.png" width="40" alt="GitHub" />
   </a>
   <a href="mailto:aishamahmood895@gmail.com">
     <img src="https://img.shields.io/badge/Email-aishamahmood895%40gmail.com-blue?style=flat&logo=gmail&logoColor=white" width="140" alt="Gmail" />
