@@ -27,37 +27,14 @@ Here are some ideas to get you started:
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.youtube.com/c/DevProTips"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/aishaatif/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/aisha895"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
 </p>
 
 <br/>
 
-<!-- Social badges section -->
+<!-- Description Section -->
 <p align="center">
-  <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a>
-  <a href="https://www.youtube.com/c/DevProTips">
-    <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/></a> 
-  <a href="https://github.com/aisha895?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/aisha895?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/aisha895?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/aisha895?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/aisha895/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
-</p>
-
-<br/>
-
-<!-- GitHub Star link -->
-<p align="center">
-  <a href="https://stars.github.com/profiles/aisha895/">
-    <img src="https://github.com/aisha895/aisha895/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="GitHub Star 2023"/></a>
+  Hi, I'm Aisha Mahmood, a full-stack web developer with a passion for building impactful, user-friendly web and app solutions. I specialize in front-end and back-end development and am always seeking opportunities to expand my skills and work on exciting, meaningful projects. I enjoy collaborating with teams and leveraging my technical expertise to solve complex problems. Feel free to connect with me on LinkedIn!
 </p>
 
 <details open> 
@@ -109,4 +86,23 @@ Here are some ideas to get you started:
   <p>
       <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
       <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-      <a href="#"><img alt="JavaScript" src="
+      <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+      <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+  </p>
+</details>
+
+<details> 
+  <summary><h2>📊 Stats and Activity</h2></summary>
+
+  <h3>🔥 Streak Stats</h3>
+  <p>
+    <a href="https://github.com/aisha895/github-readme-streak-stats">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Aisha Mahmood's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=aisha895&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
+    </a>
+  </p>
+
+  <h3>💻 GitHub Profile Stats</h3>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Aisha Mahmood's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=aisha895&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+</details>
+
