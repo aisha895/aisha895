@@ -53,9 +53,6 @@ I'm always exploring new technologies and looking for meaningful projects to con
   <a href="https://www.linkedin.com/in/aishaatif/">
     <img src="https://i.imgur.com/yRpa1dQ.png" width="40" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/aishamahmood895">
-    <img src="https://i.imgur.com/AixJgnm.png" width="40" alt="Twitter" />
-  </a>
   <a href="https://github.com/aisha895">
     <img src="https://i.imgur.com/OViZO8J.png" width="40" alt="GitHub" />
   </a>
