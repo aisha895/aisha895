@@ -44,10 +44,8 @@ I'm always exploring new technologies and looking for meaningful projects to con
 
 ## Connect with Me
 
-
-
 <h5 align="center">
-  <code><a href=""https://www.linkedin.com/in/aishaatif/"" title="LinkedIn Profile"> <img width="22" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"> LinkedIn</a></code>
+  <code><a href="https://www.linkedin.com/in/aishaatif" title="LinkedIn Profile"> <img width="22" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"> LinkedIn</a></code>
 
 </h5>
 
