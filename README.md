@@ -8,11 +8,16 @@ Welcome to my GitHub! 🚀
   </a>
 </p>
 
-I'm a recent Software Engineering graduate from York University with a passion for software and full-stack development. I enjoy building scalable, user-focused systems with tools like Java, Python, React, Spring Boot, and FastAPI.
+I'm a recent Software Engineering graduate from York University with hands-on experience in full-stack web development and IT support. I specialize in building scalable and efficient systems using technologies like Java, Python, React, Spring Boot, and FastAPI.
 
-From developing machine learning-powered web apps to supporting thousands of users in IT support roles, I love solving real-world problems with code.
+Throughout my academic and professional journey, I have gained experience in various roles such as:
+- **Software Development**: Developing full-stack applications with frameworks like Spring and React.
+- **IT Support**: Supporting thousands of users in IT environments, troubleshooting issues, and optimizing system performance.
+- **Collaboration**: Working in Agile environments and contributing to cross-functional teams to deliver high-quality solutions.
+- **Cloud Solutions**: Utilizing AWS and GCP for cloud computing, deploying applications, and managing cloud-based infrastructure.
 
 I'm always exploring new technologies and looking for meaningful projects to contribute to. Let's connect and build something impactful together! 💻🌱
+
 
 ## Programming Languages and Tools
 
@@ -54,5 +59,9 @@ I'm always exploring new technologies and looking for meaningful projects to con
   <a href="https://github.com/aisha895">
     <img src="https://i.imgur.com/OViZO8J.png" width="40" alt="GitHub" />
   </a>
+  <a href="mailto:aishamahmood895@gmail.com">
+    <img src="https://img.shields.io/badge/Email-aishamahmood895%40gmail.com-blue?style=flat&logo=gmail&logoColor=white" width="140" alt="Gmail" />
+  </a>
 </p>
+
 
